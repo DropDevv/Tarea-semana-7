@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\tareas U\\tercer semestre\\programacion\\tarea semana 7\\TAREA-EN-GRUPO-\\Intercambio de valores usando punteros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91CA99DA-78D6-45AE-B5FC-785799630757}|Intercambio de valores usando punteros.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea semana 7\\TAREA-EN-GRUPO-\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91CA99DA-78D6-45AE-B5FC-785799630757}|Intercambio de valores usando punteros.vcxproj|solutionrelative:Intercambio de valores usando punteros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC65040-F8E8-47D4-9AF6-44830707330D}|..\\Modificar una variable a trav\u00E9s de un puntero\\Modificar una variable a trav\u00E9s de un puntero.vcxproj|E:\\tareas U\\tercer semestre\\programacion\\tarea semana 7\\TAREA-EN-GRUPO-\\Modificar una variable a trav\u00E9s de un puntero\\Modificar una variable a trav\u00E9s de un puntero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modificar una variable a trav\u00E9s de un puntero.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea semana 7\\TAREA-EN-GRUPO-\\Modificar una variable a trav\u00E9s de un puntero\\Modificar una variable a trav\u00E9s de un puntero.cpp",
+              "RelativeDocumentMoniker": "..\\Modificar una variable a trav\u00E9s de un puntero\\Modificar una variable a trav\u00E9s de un puntero.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea semana 7\\TAREA-EN-GRUPO-\\Modificar una variable a trav\u00E9s de un puntero\\Modificar una variable a trav\u00E9s de un puntero.cpp",
+              "RelativeToolTip": "..\\Modificar una variable a trav\u00E9s de un puntero\\Modificar una variable a trav\u00E9s de un puntero.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T08:04:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Intercambio de valores usando punteros.cpp",
+              "DocumentMoniker": "E:\\tareas U\\tercer semestre\\programacion\\tarea semana 7\\TAREA-EN-GRUPO-\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "RelativeDocumentMoniker": "Intercambio de valores usando punteros.cpp",
+              "ToolTip": "E:\\tareas U\\tercer semestre\\programacion\\tarea semana 7\\TAREA-EN-GRUPO-\\Intercambio de valores usando punteros\\Intercambio de valores usando punteros.cpp",
+              "RelativeToolTip": "Intercambio de valores usando punteros.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T07:46:47.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
